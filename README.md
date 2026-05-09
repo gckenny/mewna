@@ -34,5 +34,5 @@ App Store Connect 三個必填欄位填這些 URL 即可。
 ## 要修改
 
 - 全部都是純 HTML + 內嵌 CSS,直接編輯 `.html` 檔
-- 文字裡所有 `gckennyh@gmail.com` 是聯絡 email,可改
+- 文字裡所有 `gckenny@gmail.com` 是聯絡 email,可改
 - `apple.com/app/mewna/id0000000000` 在 index.html 是 placeholder,App Store 上架後拿到 ID 再改
